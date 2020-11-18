@@ -1,0 +1,152 @@
+{
+    "Fischl": {
+        "baseAtk": 15,
+        "baseHp": 120,
+        "rarity": 4,
+        "rarity_text": "four_star"
+    },
+    "Amber": {
+        "baseAtk": 15,
+        "baseHp": 120,
+        "rarity": 4,
+        "rarity_text": "four_star"
+    },
+    "Bennett": {
+        "baseAtk": 15,
+        "baseHp": 120,
+        "rarity": 4,
+        "rarity_text": "four_star"
+    },
+    "Barbara": {
+        "baseAtk": 15,
+        "baseHp": 120,
+        "rarity": 4,
+        "rarity_text": "four_star"
+    },
+    "Lisa": {
+        "baseAtk": 15,
+        "baseHp": 120,
+        "rarity": 4,
+        "rarity_text": "four_star"
+    },
+    "Kaeya": {
+        "baseAtk": 15,
+        "baseHp": 120,
+        "rarity": 4,
+        "rarity_text": "four_star"
+    },
+    "Chongyun": {
+        "baseAtk": 15,
+        "baseHp": 120,
+        "rarity": 4,
+        "rarity_text": "four_star"
+    },
+    "Xiangling": {
+        "baseAtk": 15,
+        "baseHp": 120,
+        "rarity": 4,
+        "rarity_text": "four_star"
+    },
+    "Xingqiu": {
+        "baseAtk": 15,
+        "baseHp": 120,
+        "rarity": 4,
+        "rarity_text": "four_star"
+    },
+    "Beidou": {
+        "baseAtk": 15,
+        "baseHp": 120,
+        "rarity": 4,
+        "rarity_text": "four_star"
+    },
+    "Sucrose": {
+        "baseAtk": 15,
+        "baseHp": 120,
+        "rarity": 4,
+        "rarity_text": "four_star"
+    },
+    "Razor": {
+        "baseAtk": 15,
+        "baseHp": 120,
+        "rarity": 4,
+        "rarity_text": "four_star"
+    },
+    "Diona": {
+        "baseAtk": 15,
+        "baseHp": 120,
+        "rarity": 4,
+        "rarity_text": "four_star"
+    },
+    "Xinyan": {
+        "baseAtk": 15,
+        "baseHp": 120,
+        "rarity": 4,
+        "rarity_text": "four_star"
+    },
+    "Diluc": {
+        "baseAtk": 30,
+        "baseHp": 235,
+        "rarity": 5,
+        "rarity_text": "five_star"
+    },
+    "Jean": {
+        "baseAtk": 30,
+        "baseHp": 235,
+        "rarity": 5,
+        "rarity_text": "five_star"
+    },
+    "Mona": {
+        "baseAtk": 30,
+        "baseHp": 235,
+        "rarity": 5,
+        "rarity_text": "five_star"
+    },
+    "Keqing": {
+        "baseAtk": 30,
+        "baseHp": 235,
+        "rarity": 5,
+        "rarity_text": "five_star"
+    },
+    "Qiqi": {
+        "baseAtk": 30,
+        "baseHp": 235,
+        "rarity": 5,
+        "rarity_text": "five_star"
+    },
+    "Klee": {
+        "baseAtk": 30,
+        "baseHp": 235,
+        "rarity": 5,
+        "rarity_text": "five_star"
+    },
+    "Venti": {
+        "baseAtk": 30,
+        "baseHp": 235,
+        "rarity": 5,
+        "rarity_text": "five_star"
+    },
+    "Zhongli": {
+        "baseAtk": 30,
+        "baseHp": 235,
+        "rarity": 5,
+        "rarity_text": "five_star"
+    },
+    "Childe": {
+        "baseAtk": 30,
+        "baseHp": 235,
+        "rarity": 5,
+        "rarity_text": "five_star"
+    },
+    "Paimon": {
+        "baseAtk": 100,
+        "baseHp": 500,
+        "rarity": 6,
+        "rarity_text": "six_star"
+    },
+    "Stormterror": {
+        "baseAtk": 100,
+        "baseHp": 500,
+        "rarity": 6,
+        "rarity_text": "six_star"
+    }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "zhongli",
+  "version": "2.1.3b",
+  "description": "zhongli bot",
+  "main": "main.js",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^12.4.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnigamiYT/Anigami.git"
+  },
+  "keywords": [
+    "Zhongli",
+    "Bot"
+  ],
+  "author": "Anigami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnigamiYT/Anigami/issues"
+  },
+  "homepage": "https://github.com/AnigamiYT/Anigami#readme"
+}
